@@ -38,3 +38,23 @@ Make sure to deploy the output of `npm run build`
 ## Styling
 
 This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever css framework you prefer. See the [Vite docs on css](https://vitejs.dev/guide/features.html#css) for more information.
+
+# Tech Links
+
+Docs or Github links
+
+> NODE
+
+[Index \| Node.js v22.9.0 Documentation](https://nodejs.org/docs/latest/api/)  
+[GitHub - nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨](https://github.com/nodejs/node)
+
+> REACT
+
+[React Reference Overview – React](https://react.dev/reference/react)
+
+> REMIX
+
+[Official - Remix Guide](https://remix.guide/official)  
+[Remix Docs Home \| Remix](https://remix.run/docs/en/main)
+
+>
